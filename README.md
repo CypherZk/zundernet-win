@@ -31,6 +31,7 @@ Install TreasureChest as well if not done already [here](https://github.com/Pira
 Unzip and run it, it will sync the blockchain
 **This might takes time if that's your 1st install**
 You may want to speed up this process by downloading the bootstrap file [here](http://bootstrap.dexstats.info/ARRR-bootstrap.tar.gz)
+
 Then delete everything in this repository then unzip the bootstrap here :
 
 ```
